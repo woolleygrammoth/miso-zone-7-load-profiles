@@ -1,0 +1,16 @@
+Included greenskies: True
+Excluded Energy or Delivery: Delivery
+	 Total 2019 load: 93356764.0
+
+Included greenskies: False
+Excluded Energy or Delivery: Delivery
+	 Total 2019 load: 93352774.0
+
+Included greenskies: True
+Excluded Energy or Delivery: Energy
+	 Total 2019 load: 92494075.0
+
+Included greenskies: False
+Excluded Energy or Delivery: Energy
+	 Total 2019 load: 92490085.0
+
